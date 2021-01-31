@@ -222,7 +222,7 @@ def main():
     orBins = 16
     filterSz = 7 #9 #11 #13 #15
     
-    datasetName = 'CH1' #'Basalt' #'Web' #'CH1'
+    datasetName = 'Basalt' #'Web' #'CH1'
 
     
     fileNameG = './filterBank/' +  datasetName + '_filterSz_' + str(filterSz) + '_matrixG.npy'
